@@ -1,0 +1,22 @@
+.tam {
+    font-size: 1.5em;
+    font-weight: 40px;
+    margin: 10px;
+}
+.logobank{
+    display: flex;
+    justify-content: end;
+    padding: 20px;
+    height: 5em;
+}
+.cardNumber {
+    width: 100%;
+    font-size: 15px;
+}
+.cardData{
+    justify-content: space-around;
+    display:flex;
+}
+.namecard{
+    padding-bottom:20px;
+}
